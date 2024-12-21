@@ -1,0 +1,21 @@
+{
+  "name": "GM Core",
+  "symbol": "GMCORE",
+  "description": "This is my GM to Metaplex Core!",
+  "image": "https://raw.githubusercontent.com/beeman/gm-core/refs/heads/main/stickers/sticker-06.png",
+  "external_url": "https://github.com/beeman/gm-core",
+  "attributes": [
+    {
+      "trait_type": "creator",
+      "value": "kokoko"
+    },
+    {
+      "trait_type": "community",
+      "value": "Dean's List"
+    },
+    {
+      "trait_type": "sticker",
+      "value": "06"
+    }
+  ]
+}
